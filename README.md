@@ -8,4 +8,4 @@ literally every feature of p2c aside from actual insta hit (has velo changer but
 
 script line length: 2206
 
-coming soon: container searcher (almost done), proper player value calc (gonna be stupidly laggy so solid maybe on this), even more optimization
+coming soon: proper silent when underground, resolver/manip, container searcher (almost done), proper player value calc (gonna be stupidly laggy so solid maybe on this), even more optimization

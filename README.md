@@ -1,5 +1,5 @@
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/TheCollecting/RatHack-Loader/refs/heads/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheCollecting/RatHack-pd/refs/heads/main/script.lua"))()
 ```
 
 supported execs: sirhurt, velocity, solara (sorta), seliware, awp, wave, mostly all free execs that arent like 3 sUNC

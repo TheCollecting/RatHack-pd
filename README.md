@@ -9,4 +9,4 @@ literally every feature of most p2c keep crying
 
 script line length: 2206
 
-coming soon: proper silent when underground, resolver/manip, container searcher (almost done), proper player value calc (gonna be stupidly laggy so solid maybe on this)
+coming soon: manip, container searcher (almost done), proper player value calc (gonna be stupidly laggy so solid maybe on this)

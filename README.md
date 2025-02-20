@@ -10,3 +10,5 @@ literally every feature of most p2c keep crying
 script line length: 2428
 
 coming soon: manip, container searcher (almost done), proper player value calc (gonna be stupidly laggy so solid maybe on this)
+
+if i get unhappy enough source will be posted, pd sucks and script devs are almost all strange
